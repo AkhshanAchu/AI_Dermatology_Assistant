@@ -1,22 +1,22 @@
-# AI-Dermatant 🩺
+# AI-Dermatant 
 
 > **Multimodal Skin Disease Analysis System**  
 > *Winner Project - Avishkaar'24 National Hackathon sponsored by GeeksforGeeks*
 
-## 🎯 Overview
+## Overview
 
 AI-Dermatant is an advanced AI-powered dermatology assistant that provides immediate preliminary diagnosis of skin diseases through intelligent multimodal analysis. The system combines cutting-edge computer vision with natural language processing to deliver accurate dermatological assessments and personalized treatment recommendations.
 
-## ✨ Key Features
+## Key Features
 
-- **🔍 Multimodal Analysis**: Combines skin image analysis with symptom-based questioning for comprehensive diagnosis
-- **🧠 Advanced AI Models**: Utilizes Vision Transformers for image classification and Mistral LLM with RAG for intelligent symptom understanding
-- **💬 Dynamic Questioning**: Intelligent follow-up questions to confirm and refine diagnoses
-- **📋 Personalized Recommendations**: Tailored treatment suggestions based on individual cases
-- **⚡ Real-time Processing**: Instant preliminary diagnosis with high accuracy
-- **📱 User-Friendly Interface**: Intuitive web application for seamless user experience
+- ** Multimodal Analysis**: Combines skin image analysis with symptom-based questioning for comprehensive diagnosis
+- ** Advanced AI Models**: Utilizes Vision Transformers for image classification and Mistral LLM with RAG for intelligent symptom understanding
+- ** Dynamic Questioning**: Intelligent follow-up questions to confirm and refine diagnoses
+- ** Personalized Recommendations**: Tailored treatment suggestions based on individual cases
+- ** Real-time Processing**: Instant preliminary diagnosis with high accuracy
+- ** User-Friendly Interface**: Intuitive web application for seamless user experience
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - **ReactJS** - Modern, responsive user interface
@@ -36,7 +36,7 @@ AI-Dermatant is an advanced AI-powered dermatology assistant that provides immed
 - **Mistral LLM** - Large language model for symptom analysis
 - **RAG (Retrieval-Augmented Generation)** - Enhanced knowledge retrieval
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -80,7 +80,7 @@ MISTRAL_API_KEY=your_mistral_api_key
 MODEL_PATH=./models/
 ```
 
-## 💡 How It Works
+##  How It Works
 
 1. **Image Upload**: Users upload skin condition images through the web interface
 2. **Vision Analysis**: Vision Transformers analyze the image for visual patterns and features
@@ -89,26 +89,15 @@ MODEL_PATH=./models/
 5. **Dynamic Follow-up**: System asks targeted follow-up questions for diagnosis refinement
 6. **Diagnosis & Recommendations**: Provides preliminary diagnosis with confidence scores and treatment suggestions
 
-## 📊 Model Performance
+##  Model Performance
 
 - **Image Classification Accuracy**: 94.2%
 - **Symptom Analysis Precision**: 91.7%
 - **Overall Diagnostic Confidence**: 92.8%
 - **Response Time**: < 3 seconds average
 
-## 📹 Demo
+##  Demo
 
 [![AI-Dermatant Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/sam14243/Avishkaar_2024_Nexus/assets/99670301/25bc7602-030d-453f-a451-1180fc79a0ef)
 
 *Click to watch the full demonstration video*
-
-
-
-## 🔮 Future Enhancements
-
-- [ ] Mobile application development
-- [ ] Integration with telemedicine platforms
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] Doctor consultation booking
-- [ ] Medical history tracking
